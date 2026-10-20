@@ -35,7 +35,7 @@ _Check the algorithms and features you successfully ran and verified by placing 
 - [x] Soft Penalty & Quality Evaluation Engine
 - [x] CSP Backtracking with MRV + LCV + Forward Checking
 - [x] Min-Conflicts CSP Local Search
-- [x] Timetable CSV Export (<studentid>\_timetable.csv)
+- [x] Timetable CSV Export (ppate575_timetable.csv)
 
 ---
 
