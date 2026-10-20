@@ -41,7 +41,7 @@ _Check the algorithms and features you successfully ran and verified by placing 
 
 ## Section 3: Video Presentation & Project Structure
 
-- **Video Presentation Link:** «YOUR VIDEO LINK»
+- **Video Presentation Link:** https://drive.google.com/file/d/11lcJlvl-6joS_k4yi5qxCTwXUAbYRTe5/view?usp=sharing
 - **Project Directory Structure:** Plain Python modules in the project root with app.py as the entry point and data/ for the inputs and output:
 
 ```
